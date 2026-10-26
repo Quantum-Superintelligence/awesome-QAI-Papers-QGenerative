@@ -1,17 +1,17 @@
 # 🔄 Quantum Generative Models (QGenerative) Papers
 
 This section of the **Quantum AI Papers** repository focuses on **Quantum Generative Models (QGenerative)**.  
-QTL leverages knowledge from pre-trained quantum or hybrid quantum-classical models and adapts it to new tasks or domains. This paradigm plays a crucial role in overcoming limitations of small datasets, reducing training costs, and accelerating the deployment of quantum-enhanced AI systems.  
+Quantum generative models learn probability distributions and generate new samples using quantum circuits, quantum states, or hybrid quantum-classical architectures. This collection covers quantum generative adversarial networks, Born machines, quantum diffusion, quantum autoencoders, Hamiltonian generative models, trainability, and evaluation.  
 
 ---
 
 ## 📚 Scope
 Research papers in this category explore:
-- Transfer of learned quantum circuit parameters between tasks  
-- Hybrid classical–quantum transfer learning frameworks  
-- Applications of QTL in physics, chemistry, medical imaging, and natural language processing  
-- Optimization strategies to mitigate issues such as barren plateaus  
-- Cross-domain transfer of quantum models for practical real-world problems  
+- Quantum generative adversarial networks and quantum-classical GANs  
+- Born machines, variational quantum circuits, quantum Boltzmann machines, quantum autoencoders, and diffusion models  
+- Fully quantum and hybrid architectures for classical or quantum data generation  
+- Trainability, mode collapse, noise, barren plateaus, sample quality, and quantum-hardware constraints  
+- Applications that contribute a substantive generative method, analysis, or benchmark  
 
 ---
 
@@ -64,6 +64,25 @@ Research papers in this category explore:
 | Trainability barriers and opportunities in quantum generative modeling                                                                                                        |   2023 | arXiv                                                                                | Manuel S. Rudolph, Sacha Lerch, Supanut Thanasilp, Oriel Kiss, Sofia Vallecorsa, Michele Grossi, Zoë Holmes                                                                           | https://doi.org/10.48550/arXiv.2305.02881                                                                                                                                                                                                                                                                                                                    | QGenerative |
 | Towards a scalable discrete quantum generative adversarial neural network                                                                                                     |   2023 | IOPSCIENCE                                                                           | Smit Chaudhary, Patrick Huembeli, Ian MacCormack, Taylor L Patti, Jean Kossaifi and Alexey Galda                                                                                      | https://doi.org/10.1088/2058-9565/acc4e4                                                                                                                                                                                                                                                                                                                     | QGenerative |
 | Q-Flow: Generative Modeling for Differential Equations of Open Quantum Dynamics with Normalizing Flows                                                                        |   2023 | PMLR                                                                                 | Owen M Dugan, Peter Y. Lu, Rumen Dangovski, Di Luo, Marin Soljacic                                                                                                                    | https://proceedings.mlr.press/v202/dugan23a.html                                                                                                                                                                                                                                                                                                             | QGenerative |
+
+---
+
+## 🆕 Newly added and verified literature (2025–2026)
+
+These papers were screened as directly relevant to quantum generative modeling. Application-only papers without a substantive generative method or evaluation contribution were excluded.
+
+| title | year | publisher | Author | link | category |
+|---|---:|---|---|---|---|
+| TabularQGAN: a quantum generative model for tabular data synthesis | 2026 | Springer Nature | Pallavi Bhardwaj; Caitlin Jones; Lasse Dierich; Aleksandar Vučković | [DOI](https://doi.org/10.1038/s41598-026-62434-1) | QGenerative |
+| High resolution image generation based on quantum generative adversarial networks | 2026 | Elsevier | Yunwei Deng; Mingxuan Chen; Chen Gong; Nanrun Zhou | [DOI](https://doi.org/10.1016/j.cviu.2026.104884) | QGenerative |
+| QuCon-GAN: A Parameter-Efficient Quantum-Classical Conditional GAN for Handwritten Digit Generation | 2026 | IEEE | Xiaoping Lou; Chengzeng Long; Linghui Wang; Zidong Wang | [DOI](https://doi.org/10.1109/TCE.2026.3708674) | QGenerative |
+| Quantum Diffusion Model for Quark and Gluon Jet Generation | 2025 | AAAI Symposium Series | Mariia Baidachna et al. | [DOI](https://doi.org/10.1609/aaaiss.v7i1.36901) | QGenerative |
+| Quantum generative adversarial network for image generation | 2025 | Springer Nature | Mohammadsaleh Pajuhanfard; Ziwen Pan; Victor S. Sheng | [DOI](https://doi.org/10.1007/s00371-025-03915-8) | QGenerative |
+| Quantum adversarial generation of high-resolution images | 2025 | Springer Nature | QuanGong Ma et al. | [DOI](https://doi.org/10.1140/epjqt/s40507-024-00304-3) | QGenerative |
+| Quantum generative adversarial networks with dual generators | 2025 | IOP Publishing | Quangong Ma; Chaolong Hao; NianWen Si; Dan Qu | [DOI](https://doi.org/10.1088/2632-2153/ae0bf7) | QGenerative |
+| Quantum generative adversarial network based on the quantum Born machine | 2025 | Elsevier | Yifan Ding; Zi Li; Nanrun Zhou | [DOI](https://doi.org/10.1016/j.aei.2025.103622) | QGenerative |
+| Quantum generative classification with mixed states | 2025 | IOP Publishing | Diego H. Useche et al. | [DOI](https://doi.org/10.1088/2058-9565/adf350) | QGenerative |
+| Quantum Diffusion Models for Few-Shot Learning | 2025 | Springer Nature | Ruhan Wang; Ye Wang; Jing Liu; Toshiaki Koike-Akino | [DOI](https://doi.org/10.1007/978-3-032-15931-1) | QGenerative |
 
 ---
 
