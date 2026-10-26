@@ -76,6 +76,9 @@ These papers were screened as directly relevant to quantum generative modeling. 
 | TabularQGAN: a quantum generative model for tabular data synthesis | 2026 | Springer Nature | Pallavi Bhardwaj; Caitlin Jones; Lasse Dierich; Aleksandar Vučković | [DOI](https://doi.org/10.1038/s41598-026-62434-1) | QGenerative |
 | High resolution image generation based on quantum generative adversarial networks | 2026 | Elsevier | Yunwei Deng; Mingxuan Chen; Chen Gong; Nanrun Zhou | [DOI](https://doi.org/10.1016/j.cviu.2026.104884) | QGenerative |
 | QuCon-GAN: A Parameter-Efficient Quantum-Classical Conditional GAN for Handwritten Digit Generation | 2026 | IEEE | Xiaoping Lou; Chengzeng Long; Linghui Wang; Zidong Wang | [DOI](https://doi.org/10.1109/TCE.2026.3708674) | QGenerative |
+| Dynamic Quantum Generative Adversarial Network Based on Residual Connection | 2026 | IEEE | Han Qi; Jinxin Guo; Abdullah Gani | [DOI](https://doi.org/10.1109/MAI69289.2026.11543537) | QGenerative |
+| Quantum generative adversarial networks: a comprehensive survey of theories, applications, and challenges in the NISQ era | 2026 | Springer Nature | Han Qi; Yihan Xu; Hao Wang; Abdullah Gani; Lip Yee Por | [DOI](https://doi.org/10.1007/s11128-026-05186-1) | QGenerative |
+| Parameter-efficient Quantum Denoising Diffusion Probabilistic Models with temporal encoding | 2026 | Elsevier | Xuefen Zhang; Chuangtao Chen | [DOI](https://doi.org/10.1016/j.future.2025.107981) | QGenerative |
 | Quantum Diffusion Model for Quark and Gluon Jet Generation | 2025 | AAAI Symposium Series | Mariia Baidachna et al. | [DOI](https://doi.org/10.1609/aaaiss.v7i1.36901) | QGenerative |
 | Quantum generative adversarial network for image generation | 2025 | Springer Nature | Mohammadsaleh Pajuhanfard; Ziwen Pan; Victor S. Sheng | [DOI](https://doi.org/10.1007/s00371-025-03915-8) | QGenerative |
 | Quantum adversarial generation of high-resolution images | 2025 | Springer Nature | QuanGong Ma et al. | [DOI](https://doi.org/10.1140/epjqt/s40507-024-00304-3) | QGenerative |
@@ -83,6 +86,10 @@ These papers were screened as directly relevant to quantum generative modeling. 
 | Quantum generative adversarial network based on the quantum Born machine | 2025 | Elsevier | Yifan Ding; Zi Li; Nanrun Zhou | [DOI](https://doi.org/10.1016/j.aei.2025.103622) | QGenerative |
 | Quantum generative classification with mixed states | 2025 | IOP Publishing | Diego H. Useche et al. | [DOI](https://doi.org/10.1088/2058-9565/adf350) | QGenerative |
 | Quantum Diffusion Models for Few-Shot Learning | 2025 | Springer Nature | Ruhan Wang; Ye Wang; Jing Liu; Toshiaki Koike-Akino | [DOI](https://doi.org/10.1007/978-3-032-15931-1) | QGenerative |
+| Generative quantum advantage for classical and quantum problems | 2025 | arXiv | Hsin-Yuan Huang; Michael Broughton; Norhan Eassa; Hartmut Neven; Ryan Babbush; Jarrod R. McClean | [arXiv](https://arxiv.org/abs/2509.09033) | QGenerative |
+| Parameterized quantum circuits as universal generative models for continuous multivariate distributions | 2025 | Springer Nature | Alice Barthe; Michele Grossi; Sofia Vallecorsa; Jordi Tura; Vedran Dunjko | [DOI](https://doi.org/10.1038/s41534-025-01064-3) | QGenerative |
+| Quantum Latent Diffusion Models | 2025 | arXiv | Francesca De Falco; Andrea Ceschini; Alessandro Sebastianelli; Bertrand Le Saux; Massimo Panella | [arXiv](https://arxiv.org/abs/2501.11174) | QGenerative |
+| Denoising diffusion models with optimized quantum implicit neural networks for image generation | 2025 | Elsevier | Jiale Zhang; Xilong Che; Yuzhe Fan; Shun Peng; Geng Chen; Quangong Ma; Juncheng Hu | [DOI](https://doi.org/10.1016/j.future.2025.107875) | QGenerative |
 
 ---
 
